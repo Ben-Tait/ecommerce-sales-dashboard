@@ -43,9 +43,19 @@ Analyzing 540,000+ transactions from a UK-based online retailer to uncover sales
 
 
 \## Project Status
+## Project Status
+✅ **Day 1 Complete:** Data exploration and cleaning (Jan 15, 2026)
+- Analyzed 541K transactions
+- Identified and cleaned data quality issues
+- Created separate sales and returns datasets
+- Revenue: £10.6M | Orders: 19,960 | AOV: £534
 
-🚧 Day 1: Data exploration and cleaning in progress
+🚧 **Next:** Building Power BI dashboard
 
+## Key Findings So Far
+- 91% of sales from UK
+- 9,288 return transactions (1.7% return rate)
+- Data spans Dec 2010 - Dec 2011
 
 
 \## Author
