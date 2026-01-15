@@ -1,0 +1,19 @@
+# Data files (too large for GitHub)
+*.csv
+*.xlsx
+data/raw/*
+!data/raw/.gitkeep
+
+# Power BI temp files
+*.pbix
+*.pbix~
+
+# Python
+__pycache__/
+*.py[cod]
+.env
+venv/
+
+# System files
+.DS_Store
+Thumbs.db
